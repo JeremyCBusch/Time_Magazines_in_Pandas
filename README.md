@@ -7,9 +7,7 @@ I found a data set from Kaggle with every Time Magazine cover, who was on the co
 
 Data analysis interests me because I like learning from direct sources when i can. I think a lot of people get information from someone else, as opposed to finding it out themselves. Through data anlysis I can teach myself how to find answers to my questions.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video] https://vimeo.com/651773258/6a463321b4
 
 # Data Analysis Results
 
