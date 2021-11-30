@@ -1,12 +1,11 @@
 # Time_Magazines_in_Pandas
 
 # Overview
+This was my first attempt at data analysis. My goal was to learn and become familiar with using large datasets and creating tables and graphs to make sense of them.
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I found a data set from Kaggle with every Time Magazine cover, who was on the cover, and what their occupation is. I wanted to answersquestions on what type of occupations are more likely to be on a cover of Time, and if this differs from differnt decades.
 
-{Provide a description of the data set that you are analyzing.  Include the link of where you obtained the data.}
-
-{Describe your purpose for writing this software to analyze the data.}
+Data analysis interests me because I like learning from direct sources when i can. I think a lot of people get information from someone else, as opposed to finding it out themselves. Through data anlysis I can teach myself how to find answers to my questions.
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
 
@@ -14,23 +13,21 @@
 
 # Data Analysis Results
 
-{List the questions and the answers you found by doing this analysis.}
+* What is the most likely occupation to be on a cover of Time Magazine
+* Does the most likely occpation change through different decades
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
-
+visual studio
+Jupyter Notebook
+Pandas
+Matplotlib
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
-
+* [Web Site Name] https://pandas.pydata.org/docs/user_guide/10min.html#min
+* [Web Site Name] https://towardsdatascience.com/getting-started-to-data-analysis-with-python-pandas-with-titanic-dataset-a195ab043c77
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Create a line graph with all the different occupations and how they have changed every year
+* Find the highest covers in one year for each occupation and return the year and the amound of covers 
+* Learn more about the different configurations that can be made to graphs to make the information more clear
